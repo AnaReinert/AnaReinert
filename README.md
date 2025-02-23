@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an AI and Data researcher with a passion for **artificial intelligence** and **automation**. I am in the process of transforming my "TCC-Artificial-Intelligence" Project into an article for future publication. If you want to know more about it, feel free to send me a message or check out more about it in my pinned projects.<br><br>## 🌱 Currently, I am learning: Currently, I am learning:<br><br>- Reinforcement Learning<br><br>- Theory of Electronics<br><br>- Construction of Robots<br><br>## 📫 How to reach me: How to find me:<br><br>- [LinkedIn](https://www.linkedin.com/in/ana-reinert-446812209)</p>
+<p align="left">I am an AI and Data researcher with a passion for **artificial intelligence** and **automation**. I am in the process of transforming my "TCC-Artificial-Intelligence" Project into an article for future publication. If you want to know more about it, feel free to send me a message or check out more about it in my pinned projects.<br><br>## 🌱 Currently, I am learning: <br><br>- Reinforcement Learning<br><br>- Theory of Electronics<br><br>- Construction of Robots<br><br>## 📫 How to find me:<br><br>- [LinkedIn](https://www.linkedin.com/in/ana-reinert-446812209)</p>
 
 ###
 
